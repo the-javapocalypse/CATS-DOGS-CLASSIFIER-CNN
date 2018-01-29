@@ -42,12 +42,24 @@ project
 └───CATS_DOGS_CLASSIFIER.ipynb
 ```
 
+## Built With
+
+* Python 3.6
+* Keras 2.1.3
+* Numpy
+* Jupyter Notebook
+
 ### Dependencies
 
 You'll need (__Keras__)[https://keras.io/] installed to run the script. It can be installed using pip
 ```
 pip install keras
 ```
+We will also need numpy. It can also be installed using pip
+```
+pip install numpy
+```
+
 ### Installation
 
 Download or Clone the repo and download the dataset from [here](https://www.kaggle.com/c/dogs-vs-cats/data) and store it in the dataset folder using the structure showed above. After that, run either python script or the jupyter notebook. This CNN is trained using CPU only. If you are using GPU, feel free to add more layers or increase number of neurons.
@@ -56,12 +68,6 @@ Download or Clone the repo and download the dataset from [here](https://www.kagg
 
 Once the model is trained, you can use any image of dog or cat stored in __single_prediction__ folder to predict either it is a dog or cat in the image.
 
-## Built With
-
-* Python 3.6
-* Keras 2.1.3
-* Numpy
-* Jupyter Notebook
 
 ## Contributing
 
