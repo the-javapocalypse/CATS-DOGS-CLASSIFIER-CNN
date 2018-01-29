@@ -77,4 +77,4 @@ Muhammad Ali Zia
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/the-javapocalypse/Twitter-Sentiment-Analysis/blob/master/License.txt) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/the-javapocalypse/CATS-DOGS-CLASSIFIER-CNN/blob/master/LICENSE) file for details
