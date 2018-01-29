@@ -5,6 +5,7 @@ Cats &amp; Dogs Classifier using Conventional Neural Network in Keras. You can g
 
 Following should be the directory structure. I've uploaded few images in the dataset folder so that you can understand more better the structure and file naming scheme.
 
+```
 project   
 │
 └───dataset
@@ -39,7 +40,7 @@ project
 │           ...
 │     
 └───CATS_DOGS_CLASSIFIER.ipynb
-
+```
 
 ### Dependencies
 
